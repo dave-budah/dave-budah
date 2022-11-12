@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dave Buda
+- 👋 Hi, I’m Dave Budah
 - 👀 I’m a Fullstack Developer | Angular, Laravel, Kotlin, Flutter, Spring boot, Java
-- 🌱 I’m currently working as a developer at www.absp.online & as a Freelancer
+- 🌱 I’m currently working as a developer at www.primefocus.co.zw & as a Freelancer
 - 💞️ I’m open to any available Developer job oportunities in Web and or Android Development
 - 📫 How to reach me +263772635973 / davebudah@gmail.com
 
